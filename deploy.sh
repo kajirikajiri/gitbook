@@ -16,7 +16,7 @@ echo -e "\033[0;32mGenerating site...\033[0m"
 build_command
 
 echo -e "\033[0;32mCopy_site...\033[0m"
-cp -r $directory $temp_directory
+cp -r $directory/* $temp_directory
 
 echo -e "\033[0;32mDeploying $branch branch...\033[0m"
 cd $temp_directory &&

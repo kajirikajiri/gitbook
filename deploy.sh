@@ -14,7 +14,7 @@ git worktree add -f $temp_directory $branch
 
 echo -e "\033[0;32mGenerating site...\033[0m"
 build_command
-rm _book/deploy.sh
+rm _book/deploy.sh _book/$temp_directory
 
 echo -e "\033[0;32mCopy_site...\033[0m"
 cp -r $directory/* $temp_directory

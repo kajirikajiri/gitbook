@@ -25,5 +25,5 @@ cd $temp_directory &&
         git push origin $branch
 
 echo -e "\033[0;32mCleaning up...\033[0m"
-git worktree remove $temp_directory
-rm $directory
+git worktree remove -f $temp_directory
+rm -rf $directory

@@ -1,6 +1,7 @@
 # SUMMARY
 
-* [fourth](docs/fourth.md)
+- new
+  * [fourth](docs/new/fourth.md)
+- [third](docs/third/third.md)
 * [second](docs/second.md)
-* [third](docs/third.md)
 * [いち](docs/いち.md)

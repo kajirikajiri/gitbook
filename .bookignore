@@ -1,0 +1,5 @@
+deploy.sh
+.gitignore
+package.json
+.bookignore
+yarn.lock

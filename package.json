@@ -1,0 +1,23 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/kajirikajiri/gitbook.git",
+  "author": "kazukinakamuraKN <kajirikajiri@gmail.com>",
+  "license": "MIT",
+  "plugins": [
+    "git-author",
+    "copy-code",
+    "advanced-emoji"
+  ],
+  "scripts": {
+    "init": "gitbook init",
+    "start": "gitbook serve",
+    "build": "gitbook build",
+    "publish": "gh-pages -d _book -m 'Auto publish book'"
+  },
+  "dependencies": {
+    "gh-pages": "^2.1.1",
+    "gitbook-cli": "^2.3.2"
+  }
+}

@@ -10,7 +10,8 @@
     "start": "gitbook serve",
     "sm": "book sm -r docs && mv docs/SUMMARY.md .",
     "build": "gitbook build",
-    "publish": "gh-pages -d _book -m 'Auto publish book'"
+    "publish": "gh-pages -d _book -m 'Auto publish book'",
+    "all": "book sm -r docs && mv docs/SUMMARY.md . && gitbook build && gh-pages -d _book -m 'Auto publish book'"
   },
   "plugin": ["git-author", "copy-code", "advanced-emoji"],
   "dependencies": {

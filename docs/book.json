@@ -1,6 +1,6 @@
 {
-  "title": "json-config-name",
-  "outputfile": "test.md",
+  "title": "SUMMARY",
+  "outputfile": "SUMMARY.md",
   "catalog": "all",
   "ignores": [],
   "unchanged": [], 

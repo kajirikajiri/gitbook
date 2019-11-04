@@ -1,2 +1,0 @@
-# おはよう
-hello git book

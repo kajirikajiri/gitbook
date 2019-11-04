@@ -12,6 +12,7 @@
     "build": "gitbook build",
     "publish": "gh-pages -d _book -m 'Auto publish book'"
   },
+  "plugin": ["git-author", "copy-code", "advanced-emoji"],
   "dependencies": {
     "gh-pages": "^2.1.1",
     "gitbook-cli": "^2.3.2"

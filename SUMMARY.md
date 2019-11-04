@@ -2,4 +2,4 @@
 
 - Book
   * [First](_book/first.md)
-* [First](first.md)
+* [How To Write Gitbook Markdown](how to write gitbook markdown.md)

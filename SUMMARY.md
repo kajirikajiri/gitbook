@@ -1,5 +1,3 @@
-# Table of contents
+# Your Book Title
 
-* [Introduction](README.md)
-* [first](first.md)
-
+* [First](first.md)

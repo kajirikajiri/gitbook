@@ -1,5 +1,5 @@
-deploy.sh
 .gitignore
-package.json
+.gitbook
 .bookignore
-yarn.lock
+_book
+SUMMARY.md

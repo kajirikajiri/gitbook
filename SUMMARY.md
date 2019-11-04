@@ -1,3 +1,5 @@
-# SUMMARY
+# Table of contents
 
-* [first](docs/first.md)
+* [Introduction](README.md)
+* [first](first.md)
+

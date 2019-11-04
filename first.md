@@ -42,6 +42,3 @@ success
 {% hint style="danger" %}
 danger
 {% endhint %}
-
-
-

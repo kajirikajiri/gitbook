@@ -15,7 +15,7 @@ _italic_
 
 ```
 code block
-````
+```
 
 ```js
 console.log('code block')

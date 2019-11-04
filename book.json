@@ -4,6 +4,12 @@
     "edit-link": {
         "base": "https://github.com/kajirikajiri/gitbook/edit/gh-pages",
         "label": "Edit This Page"
+    },
+    "github": {
+      "url": "https://github.com/kajirikajiri"
+    },
+    "sitemap": {
+      "hostname": "https://githubcom"
     }
 }
 }

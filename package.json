@@ -13,7 +13,7 @@
     "publish": "gh-pages -d _book -m 'Auto publish book'",
     "all": "book sm -r docs && mv docs/SUMMARY.md . && gitbook build && gh-pages -d _book -m 'Auto publish book'"
   },
-  "plugin": ["git-author", "copy-code", "advanced-emoji"],
+  "plugin": ["edit-link", "copy-code-button", "github", "back-to-top-button", "sitemap", "include-html"],
   "dependencies": {
     "gh-pages": "^2.1.1",
     "gitbook-cli": "^2.3.2"

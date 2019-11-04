@@ -1,7 +1,7 @@
 {
   "title": "SUMMARY",
   "outputfile": "SUMMARY.md",
-  "catalog": ["all", "hello", "goodbye"],
+  "catalog": ["all"],
   "ignores": [],
   "unchanged": [], 
   "sortedBy": "-",

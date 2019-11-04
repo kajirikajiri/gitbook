@@ -8,6 +8,7 @@
   "scripts": {
     "init": "gitbook init",
     "start": "gitbook serve",
+    "sm": "book sm -r docs && mv docs/SUMMARY.md .",
     "build": "gitbook build",
     "publish": "gh-pages -d _book -m 'Auto publish book'"
   },

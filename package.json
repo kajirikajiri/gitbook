@@ -5,11 +5,6 @@
   "repository": "ssh://git@github.com/kajirikajiri/gitbook.git",
   "author": "kazukinakamuraKN <kajirikajiri@gmail.com>",
   "license": "MIT",
-  "plugins": [
-    "git-author",
-    "copy-code",
-    "advanced-emoji"
-  ],
   "scripts": {
     "init": "gitbook init",
     "start": "gitbook serve",

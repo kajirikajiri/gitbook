@@ -1,3 +1,9 @@
 {
-  "plugins": ["edit-link", "copy-code-button", "github", "back-to-top-button", "sitemap", "include-html"]
+  "plugins": ["edit-link", "copy-code-button", "github", "back-to-top-button", "sitemap", "include-html"],
+  "pluginsConfig": {
+    "edit-link": {
+        "base": "https://github.com/kajirikajiri/gitbook/edit/gh-pages",
+        "label": "Edit This Page"
+    }
+}
 }

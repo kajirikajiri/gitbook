@@ -3,6 +3,7 @@
 <url> <loc>https://githubcom/./</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://githubcom/docs/fourth.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://githubcom/docs/second.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://githubcom/docs/test.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://githubcom/docs/third.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://githubcom/docs/いち.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>

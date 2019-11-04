@@ -1,4 +1,4 @@
-# A first-level title
+A first-level title is not working. ↑ is first-level title.
 ## A second-level title
 ### A third-level title
 
@@ -9,6 +9,7 @@ _italic_
 - list
 - list
 - [ ] check list
+- [x] check list
 1. no list
 1. no list
 

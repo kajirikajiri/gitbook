@@ -269,5 +269,80 @@ cargo check && cargo build
 
 shift + alt + noneはキー配列いじった結果です。すいません
 
+rustのif, roopなどは式であるため、値を返す。rubyっぽい
 
+rustのifはbool以外をエラーとする。jsは0, 1を評価できる。
+
+{% embed url="https://doc.rust-lang.org/book/ch03-05-control-flow.html\#conditional-loops-with-while" %}
+
+rustには所有権がある。下記プログラムを実行するとs1は所有権を失っているため、エラーになる
+
+```rust
+let s1 = String::from("hello");
+let s2 = s1;
+
+println!("{}, world!", s1);
+```
+
+おもしろいな。
+
+しかし、リテラルを扱う場合、スタックに存在するため、問題ない。例えば、下記なら、Hello, world!が出力できる。
+
+```rust
+let s1 = "hello";
+let s2 = s1;
+
+println!("{}, world!", s1);
+```
+
+また、メモリの有効範囲は下記になっている。作成したらメモリにpush。スコープを外れたら、メモリをpop\(rustではdrop\)。
+
+```rust
+
+{                      // s is not valid here, it’s not yet declared
+    let s = "hello";   // s is valid from this point forward
+
+    // do stuff with s
+}                      // this scope is now over, and s is no longer valid
+```
+
+{% embed url="https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html" %}
+
+また、&　を使用すると、参照を使用するため、所有権は変わらない。
+
+```rust
+fn main() {
+    let s1 = String::from("hello");
+
+    let len = calculate_length(&s1);
+
+    println!("The length of '{}' is {}.", s1, len);
+}
+
+fn calculate_length(s: &String) -> usize {
+    s.len()
+}
+```
+
+{% embed url="https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html" %}
+
+rustは関数内で引数に対して変更を実行できない\(default\)。
+
+{% embed url="https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html" %}
+
+mutableにすることで可能になる。しかし、スコープ内で一度しかできない。もし複数回使用したければ、スコープを別にする。
+
+rustは不変参照を複数回実行できるが、不変参照と、可変参照をくみあわせることはできない。
+
+rustは終了する参照をリターンできない。下記の場合、ちょくせつstringを返すのが正解。
+
+```rust
+fn dangle() -> &String { // dangle returns a reference to a String
+
+    let s = String::from("hello"); // s is a new String
+
+    &s // we return a reference to the String, s
+} // Here, s goes out of scope, and is dropped. Its memory goes away.
+  // Danger!
+```
 

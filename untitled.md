@@ -267,3 +267,7 @@ cargo check && cargo build
 
 {% embed url="https://www.youtube.com/watch?v=IgeUAB0phmQ" %}
 
+shift + alt + noneはキー配列いじった結果です。すいません
+
+
+

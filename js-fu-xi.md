@@ -282,3 +282,9 @@ deleteキーワードを使用すると、JSONオブジェクトからプロパ�
 delete myObj.cars.car2;
 ```
 
+　個人的にはrustのメモリ管理のほうが好き
+
+{% embed url="https://developer.mozilla.org/ja/docs/Web/JavaScript/Memory\_Management" %}
+
+
+

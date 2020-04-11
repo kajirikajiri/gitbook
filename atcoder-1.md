@@ -1,6 +1,6 @@
 # atcoder
 
- atcoder デバックできないから嫌いや。。おもってたら、あった。
+atcoder デバックできないから嫌いや。。おもってたら、あった。
 
 ![](.gitbook/assets/image%20%281%29.png)
 
@@ -28,10 +28,6 @@ Array.from\(new set\(iterator\)\)すげえ
  こんなんわからんやん。最後に改行入ってる？？？？もう絶対trimつける。
 
 {% embed url="https://nvspace.net/atcoder-javascript-trim/" %}
-
-
-
-
 
 
 

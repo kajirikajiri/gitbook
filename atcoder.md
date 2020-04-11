@@ -4,6 +4,8 @@
 
 ![](.gitbook/assets/image%20%281%29.png)
 
+ // この行でgitbookがエラー出力する
+
 {% embed url="https://atcoder.jp/contests/abc081/custom\_test" %}
 
  いままで、これなんのエラーや？？？？思ってたけど、これのおかげで捗る

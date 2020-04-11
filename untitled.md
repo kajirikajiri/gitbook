@@ -2,7 +2,7 @@
 
 
 
-テンプレあった 
+テンプレあった 。
 
 [https://hub.docker.com/\_/rust](https://hub.docker.com/_/rust)
 

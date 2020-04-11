@@ -7,7 +7,7 @@
      </no-ssr>
 ```
 
- 先日、vueでapexchartを使っていた
+ 先日、vueでapexchartを使っていた。
 
 [https://apexcharts.com/](https://apexcharts.com/)
 

@@ -9,4 +9,5 @@
 * [vue The client-side rendered virtual DOM tree](vue-the-client-side-rendered-virtual-dom-tree.md)
 * [ApexChartsがSSRで描画されない](apexchartsgassrdesarenai.md)
 * [atcoder](atcoder-1.md)
+* [gitbook Page build failure](gitbook-page-build-failure.md)
 

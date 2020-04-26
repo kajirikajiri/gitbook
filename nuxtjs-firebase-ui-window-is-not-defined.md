@@ -6,7 +6,7 @@
 </template>
 
 <script>
-if (process.browser) { // add this
+if (process.browser) { // add this or use mounted
 
   var firebase = require('firebase')
   var firebaseui = require('firebaseui')

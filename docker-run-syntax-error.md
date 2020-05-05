@@ -50,3 +50,22 @@ routingを勝手にやってくれるあたりも似てる。
 
 client-side navigationっていうのか
 
+{% tabs %}
+{% tab title="reactってからのタグ許可するのか" %}
+```text
+    <>
+      <h1>First Post</h1>
+      <h2>
+        <Link href="/">
+          <a>Back to home</a>
+        </Link>
+      </h2>
+    </>
+```
+{% endtab %}
+{% endtabs %}
+
+nextのコードタグダブルクリックで全部選択されるの便利
+
+
+

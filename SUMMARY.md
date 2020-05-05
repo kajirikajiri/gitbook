@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [worker api batch](worker-api-batch.md)
 * [GraphQL](graphql.md)
 * [react hooks](react-hooks.md)
 * [docker run syntax error](docker-run-syntax-error.md)
@@ -17,4 +18,5 @@
 * [ApexChartsがSSRで描画されない](apexchartsgassrdesarenai.md)
 * [atcoder](atcoder-1.md)
 * [gitbook Page build failure](gitbook-page-build-failure.md)
+* [dexie firebase nuxt vuetifyでオフラインpwaメモ帳作った](dexie-firebase-nuxt-vuetifydeofurainpwamemotta.md)
 

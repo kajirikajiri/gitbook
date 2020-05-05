@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [webpack babel](webpack-babel.md)
 * [chainer?](chainer.md)
 * [nuxtjs firebase ui window is not defined](nuxtjs-firebase-ui-window-is-not-defined/README.md)
   * [nuxt firebaseui ui broken](nuxtjs-firebase-ui-window-is-not-defined/nuxt-firebaseui-ui-broken.md)

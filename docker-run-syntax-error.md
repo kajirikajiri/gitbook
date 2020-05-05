@@ -32,3 +32,7 @@ docker run -p 3000:3000 nextjs
 
 オプションは、先に書きましょうということでした
 
+今日のgithub: [https://github.com/kajirikajiri/nextjs](https://github.com/kajirikajiri/nextjs)
+
+nextjsのdockercomposeがみつからないから自分で作った
+

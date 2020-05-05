@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [docker run syntax error](docker-run-syntax-error.md)
 * [webpack babel](webpack-babel.md)
 * [chainer?](chainer.md)
 * [nuxtjs firebase ui window is not defined](nuxtjs-firebase-ui-window-is-not-defined/README.md)

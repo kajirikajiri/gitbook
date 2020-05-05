@@ -36,3 +36,17 @@ docker run -p 3000:3000 nextjs
 
 nextjsのdockercomposeがみつからないから自分で作った
 
+![](.gitbook/assets/image%20%282%29.png)
+
+ぬｘｔ
+
+検索候補になんかでてきた\(nuxtを日本語で入力すると、ぬｘｔ\)かわいいな
+
+nuxtとnext似てるけど語呂が似てるけどなんかあんのかな。
+
+routingを勝手にやってくれるあたりも似てる。
+
+&lt;Link&gt;便利nuxtと一緒。n-link :to
+
+client-side navigationっていうのか
+

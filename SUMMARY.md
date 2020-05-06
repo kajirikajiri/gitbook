@@ -20,4 +20,5 @@
 * [atcoder](atcoder-1.md)
 * [gitbook Page build failure](gitbook-page-build-failure.md)
 * [dexie firebase nuxt vuetifyでオフラインpwaメモ帳作った](dexie-firebase-nuxt-vuetifydeofurainpwamemotta.md)
+* [force darkmode chrome](force-darkmode-chrome.md)
 

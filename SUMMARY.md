@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [5分でLambda Storeをつかってみた](5delambda-storewotsukattemita.md)
 * [worker api batch](worker-api-batch.md)
 * [GraphQL](graphql.md)
 * [react hooks](react-hooks.md)

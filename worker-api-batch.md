@@ -18,5 +18,9 @@ kvs インメモリなら、redisとか
 
 でやってみよう
 
+{% embed url="https://github.com/kajirikajiri/redis-ranking" %}
 
+予定がだいぶ変更された。getとpostを試すだけで終わった
+
+redisがserversideでしか動かないようで\(証拠がない。さらっとみたけど、見つからなかった\)nodeサーバーを立てて、get, postする形で実装した。
 

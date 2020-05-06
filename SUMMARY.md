@@ -3,8 +3,6 @@
 * [Initial page](README.md)
 * [5分でLambda Storeをつかってみた](5delambda-storewotsukattemita.md)
 * [worker api batch](worker-api-batch.md)
-* [GraphQL](graphql.md)
-* [react hooks](react-hooks.md)
 * [docker run syntax error](docker-run-syntax-error.md)
 * [webpack babel](webpack-babel.md)
 * [chainer?](chainer.md)
@@ -21,4 +19,7 @@
 * [gitbook Page build failure](gitbook-page-build-failure.md)
 * [dexie firebase nuxt vuetifyでオフラインpwaメモ帳作った](dexie-firebase-nuxt-vuetifydeofurainpwamemotta.md)
 * [force darkmode chrome and disable white flash](force-darkmode-chrome.md)
+* [ためしたい](tameshitai/README.md)
+  * [react hooks](tameshitai/react-hooks.md)
+  * [GraphQL](tameshitai/graphql.md)
 

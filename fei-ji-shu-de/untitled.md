@@ -1,4 +1,6 @@
-# Untitled
+# quaker oats
+
+vueの[quasar](https://quasar.dev/)みたいだな。
 
 {% embed url="https://www.amazon.co.jp/Quaker-Oats-%E3%82%AF%E3%82%A8%E3%83%BC%E3%82%AB%E3%83%BC-QUAKER-OATS-%E3%82%AF%E3%82%A8%E3%83%BC%E3%82%AB%E3%83%BC-%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9F%E3%83%BC%E3%83%AB4-52kg-2-26kgX2%E3%83%91%E3%83%83%E3%82%AF%E5%85%A5/dp/B006JWQOVC/ref=pd\_rhf\_gw\_p\_img\_1?\_encoding=UTF8&psc=1&refRID=EK5CMTZ9AWWRZ4TZCFWP" %}
 

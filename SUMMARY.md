@@ -24,4 +24,6 @@
   * [react hooks](tameshitai/react-hooks.md)
   * [GraphQL](tameshitai/graphql.md)
 * [globalThis](globalthis.md)
+* [Promise.allSettled](promise.allsettled.md)
+* [export \* as ns from "module"](export-as-ns-from-module.md)
 

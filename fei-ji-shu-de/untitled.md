@@ -14,7 +14,7 @@ vueの[quasar](https://quasar.dev/)みたいだな。
 
 こいつはamazonを使うなら必須。
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 こんな風に値段の移り変わりが見れる
 

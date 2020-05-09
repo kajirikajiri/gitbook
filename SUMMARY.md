@@ -23,4 +23,5 @@
 * [ためしたい](tameshitai/README.md)
   * [react hooks](tameshitai/react-hooks.md)
   * [GraphQL](tameshitai/graphql.md)
+* [globalThis](globalthis.md)
 

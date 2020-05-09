@@ -31,3 +31,7 @@ undefined
 
 つかえたー
 
+{% embed url="https://github.com/nodenv/nodenv-update" %}
+
+べんりだった\(nodenvにnodenv自身のupdateコマンドを追加する\)
+

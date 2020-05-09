@@ -35,4 +35,5 @@
 * [nullish optional chaining](nullish-optional-chaining.md)
 * [itunes miniplayer 前面固定\(windows\)](itunes-miniplayer-qian-mian-gu-ding-windows.md)
 * [nullish node 14 vs 13](nullish-node-14-vs-13.md)
+* [gh-open not working with wsl2](gh-open-not-working-with-wsl2.md)
 

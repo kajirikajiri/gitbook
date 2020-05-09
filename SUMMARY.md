@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [非技術的](fei-ji-shu-de/README.md)
+  * [Untitled](fei-ji-shu-de/untitled.md)
+  * [圧力鍋 ホイル焼き](fei-ji-shu-de/hoiruki.md)
 * [ためしたい](tameshitai/README.md)
   * [react hooks](tameshitai/react-hooks.md)
   * [GraphQL](tameshitai/graphql.md)

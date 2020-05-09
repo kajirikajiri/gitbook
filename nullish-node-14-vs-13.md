@@ -35,3 +35,12 @@ undefined
 
 べんりだった\(nodenvにnodenv自身のupdateコマンドを追加する\)
 
+```text
+# install
+mkdir -p "$(nodenv root)"/plugins
+git clone https://github.com/nodenv/nodenv-update.git "$(nodenv root)"/plugins/nodenv-update
+
+# usage
+nodenv update
+```
+

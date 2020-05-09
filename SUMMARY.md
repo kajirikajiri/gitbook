@@ -2,6 +2,7 @@
 
 * [Initial page](README.md)
 * [非技術的](fei-ji-shu-de/README.md)
+  * [wsl2 色 変更](fei-ji-shu-de/wsl2-se-bian-geng.md)
   * [quaker oats](fei-ji-shu-de/untitled.md)
   * [圧力鍋 ホイル焼き](fei-ji-shu-de/hoiruki.md)
 * [ためしたい](tameshitai/README.md)

@@ -1,2 +1,2 @@
-# github-pagesの改造
+# github-openの改造
 

@@ -6,7 +6,7 @@
   * [quaker oats](fei-ji-shu-de/untitled.md)
   * [圧力鍋 ホイル焼き](fei-ji-shu-de/hoiruki.md)
 * [ためしたい](tameshitai/README.md)
-  * [github-pagesの改造](tameshitai/github-pagesno.md)
+  * [github-openの改造](tameshitai/github-pagesno.md)
   * [react hooks](tameshitai/react-hooks.md)
   * [GraphQL](tameshitai/graphql.md)
 * [5分でLambda Storeをつかってみた](5delambda-storewotsukattemita.md)

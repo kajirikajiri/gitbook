@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [ためしたい](tameshitai/README.md)
+  * [react hooks](tameshitai/react-hooks.md)
+  * [GraphQL](tameshitai/graphql.md)
 * [5分でLambda Storeをつかってみた](5delambda-storewotsukattemita.md)
 * [worker api batch](worker-api-batch.md)
 * [docker run syntax error](docker-run-syntax-error.md)
@@ -20,10 +23,9 @@
 * [dexie firebase nuxt vuetifyでオフラインpwaメモ帳作った](dexie-firebase-nuxt-vuetifydeofurainpwamemotta.md)
 * [force darkmode chrome and disable white flash](force-darkmode-chrome.md)
 * [js nullish](js-nullish.md)
-* [ためしたい](tameshitai/README.md)
-  * [react hooks](tameshitai/react-hooks.md)
-  * [GraphQL](tameshitai/graphql.md)
 * [globalThis](globalthis.md)
 * [Promise.allSettled](promise.allsettled.md)
 * [export \* as ns from "module"](export-as-ns-from-module.md)
+* [matchAll](matchall.md)
+* [nullish optional chaining](nullish-optional-chaining.md)
 

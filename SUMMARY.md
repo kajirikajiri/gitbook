@@ -36,4 +36,5 @@
 * [js nullish](js-nullish.md)
 * [nullish optional chaining](nullish-optional-chaining.md)
 * [nullish node 14 vs 13](nullish-node-14-vs-13.md)
+* [nodenv global not working](nodenv-global-not-working.md)
 

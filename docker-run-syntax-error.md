@@ -36,7 +36,7 @@ docker run -p 3000:3000 nextjs
 
 nextjsのdockercomposeがみつからないから自分で作った
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
 
 ぬｘｔ
 

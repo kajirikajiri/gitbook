@@ -9,7 +9,7 @@
   * [圧力鍋 ホイル焼き](fei-ji-shu-de/hoiruki.md)
 * [ためしたい](tameshitai/README.md)
   * [github-openの改造](tameshitai/github-pagesno.md)
-  * [react hooks](tameshitai/react-hooks.md)
+  * [react hook](tameshitai/react-hooks.md)
   * [GraphQL](tameshitai/graphql.md)
 * [5分でLambda Storeをつかってみた](5delambda-storewotsukattemita.md)
 * [gh-open not working with wsl2](gh-open-not-working-with-wsl2.md)
